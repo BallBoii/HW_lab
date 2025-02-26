@@ -54,7 +54,8 @@ module UARTTx (
           tx_reg      <= 1'b1;      // Idle line is high
           baud_counter<= 0;
           bit_index   <= 0;
-          if (!Empty) begin
+          readReg <= 0;
+          if (!Empty && !readReg) begin
             readReg   <= 1'b1;
           end
           if (DataValid) begin
