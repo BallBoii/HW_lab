@@ -1,0 +1,13 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1742304275" />
+    <testcase name="Testcase01" classname="TB" file="D:\group\Lab6\cocotb\TB.py" lineno="264" time="0.009958267211914062" sim_time_ns="105.001" ratio_time="10544.103483623827" />
+    <testcase name="Testcase02" classname="TB" file="D:\group\Lab6\cocotb\TB.py" lineno="268" time="0.01756000518798828" sim_time_ns="135.001" ratio_time="7687.981783305274" />
+    <testcase name="Testcase03" classname="TB" file="D:\group\Lab6\cocotb\TB.py" lineno="272" time="0.021810054779052734" sim_time_ns="205.00099999999998" ratio_time="9399.380335206279" />
+    <testcase name="Testcase04" classname="TB" file="D:\group\Lab6\cocotb\TB.py" lineno="276" time="0.0262911319732666" sim_time_ns="125.00100000000003" ratio_time="4754.492888594671" />
+    <testcase name="Testcase05" classname="TB" file="D:\group\Lab6\cocotb\TB.py" lineno="280" time="0.018121719360351562" sim_time_ns="105.00099999999998" ratio_time="5794.207376907692" />
+    <testcase name="Testcase06" classname="TB" file="D:\group\Lab6\cocotb\TB.py" lineno="284" time="0.007097482681274414" sim_time_ns="115.00099999999998" ratio_time="16203.06877301891" />
+    <testcase name="Testcase07" classname="TB" file="D:\group\Lab6\cocotb\TB.py" lineno="288" time="0.019536972045898438" sim_time_ns="165.00099999999998" ratio_time="8445.57690988968" />
+    <testcase name="Testcase08" classname="TB" file="D:\group\Lab6\cocotb\TB.py" lineno="292" time="0.02450418472290039" sim_time_ns="405.0010000000001" ratio_time="16527.830024946976" />
+  </testsuite>
+</testsuites>
